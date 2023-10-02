@@ -1,22 +1,8 @@
-// import './App.css';
-import Header from './components/Header';
-import Nav from './components/Nav';
-import AboutMe from './components/AboutMe';
-import Project from './components/Project';
-import Contact from './components/Contact';
-import Footer from './components/Footer';
+// research on how to use react router dom to navigate through pages or use containers to hold the components
 
-function App() {
-    return (
-        <div className="react-portfolio">
-            <Header/>
-            <Nav/>
-            <AboutMe/>
-            <Project/>
-            <Contact/>
-            <Footer/>
-        </div>
-    )
-};
+// import './App.css';
+import PortfolioPage from './components/PortfolioPage'
+
+const App = () => <PortfolioPage />;
 
 export default App;
