@@ -1,8 +1,8 @@
 // created separate file for portfolio that will conditionally render other components
 
 import React, { useState } from 'react';
-import Nav from './Nav';
-import Header from './pages/Header';
+import Nav_ from './Nav';
+import Header from './Header';
 import AboutMe from './pages/AboutMe';
 import Project from './pages/Project';
 import Contact from './pages/Contact';
@@ -32,7 +32,7 @@ export default function PortfolioPage() {
     return (
         <div>
             <Header/>
-            <Nav currentPage={currentPage} handlePageChange={handlePageChange}/>
+            <Nav_ currentPage={currentPage} handlePageChange={handlePageChange}/>
             {renderPage()}
             <Footer/>
         </div>
