@@ -1,0 +1,16 @@
+body {
+    background-color: #212529;
+    color: #fff;
+}
+
+.nav-link {
+    padding: 20px;
+    color: #adb5bd;
+}
+
+footer {
+    background-color: #212529;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
