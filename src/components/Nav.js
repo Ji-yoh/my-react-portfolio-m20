@@ -8,7 +8,7 @@ import NavDropdown from "react-bootstrap/NavDropdown";
 function Nav_({ currentPage, handlePageChange }) {
     return (
         <Navbar bg="dark" expand="lg" >
-            <Container className="justify-content-end">
+            <Container className="justify-content-center">
                 {/*<Navbar.Toggle aria-controls="basic-navbar-nav" />*/}
                 {/*<Navbar.Collapse id="basic-navbar-nav">*/}
                     <Nav variant="tabs">
