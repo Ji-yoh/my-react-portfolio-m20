@@ -21,3 +21,4 @@
   ![Screenshot](/react%20portfolio%20screenshot.png)
 
   ## Link
+  [Deployed Site!](https://ji-yoh.github.io/my-react-portfolio-m20/)
