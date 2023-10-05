@@ -1,9 +1,12 @@
 {
   "name": "my-react-portfolio-m20",
   "version": "1.0.0",
+  "homepage": "https://ji-yoh.github.io/my-react-portfolio-m20",
   "description": "My portfolio but with React!",
   "main": "index.js",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -36,5 +39,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
   }
 }
