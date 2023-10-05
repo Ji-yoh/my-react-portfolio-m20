@@ -21,10 +21,9 @@ function Nav_({ currentPage, handlePageChange }) {
                         <Nav.Item>
                             <Nav.Link href="#contact" onClick={() => handlePageChange("Contact Me")} className={currentPage === "Contact Me" ? "nav-link active" : "nav-link"}>Contact Me</Nav.Link>
                         </Nav.Item>
-                    
-                        <NavDropdown title="Resume" id="basic-nav-dropdown">
-                            <NavDropdown.Item>Take a look!</NavDropdown.Item>
-                        </NavDropdown>
+                        <Nav.Item>
+                            <Nav.Link href="#resume" onClick={() => handlePageChange("Resume")} className={currentPage === "Resume" ? "nav-link active" : "nav-link"}>Resume</Nav.Link>
+                        </Nav.Item>
                     </Nav>
                 {/*</Navbar.Collapse>*/}
             </Container>
