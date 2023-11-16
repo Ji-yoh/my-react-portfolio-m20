@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/my-react-portfolio-m20/static/css/main.a0a0f005.css",
+    "main.js": "/my-react-portfolio-m20/static/js/main.59e89c19.js",
+    "static/media/littleshop_sequel.png": "/my-react-portfolio-m20/static/media/littleshop_sequel.04f6726fc73a25a3d1cd.png",
+    "static/media/me.png": "/my-react-portfolio-m20/static/media/me.749b266bb8da2b9e7f4e.png",
+    "static/media/Resume.pdf": "/my-react-portfolio-m20/static/media/Resume.abb02fb9d237b9966736.pdf",
+    "static/media/note-taking-expressly.png": "/my-react-portfolio-m20/static/media/note-taking-expressly.07e3b35afb14a6442de6.png",
+    "static/media/tier_ranker Small.png": "/my-react-portfolio-m20/static/media/tier_ranker Small.ef6d8db67cf588b6ebe4.png",
+    "static/media/MongoDB_SpringGreen Small.png": "/my-react-portfolio-m20/static/media/MongoDB_SpringGreen Small.8622d4234bf5ca0c3b5e.png",
+    "index.html": "/my-react-portfolio-m20/index.html",
+    "main.a0a0f005.css.map": "/my-react-portfolio-m20/static/css/main.a0a0f005.css.map",
+    "main.59e89c19.js.map": "/my-react-portfolio-m20/static/js/main.59e89c19.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a0a0f005.css",
+    "static/js/main.59e89c19.js"
+  ]
+}
