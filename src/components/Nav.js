@@ -19,6 +19,9 @@ function Nav_({ currentPage, handlePageChange }) {
                             <Nav.Link href="#projects" onClick={() => handlePageChange("Projects")} className={currentPage === "Projects" ? "nav-link active" : "nav-link"}>Projects</Nav.Link>
                         </Nav.Item>
                         <Nav.Item>
+                            <Nav.Link href="#writing" onClick={() => handlePageChange("Writing")} className={currentPage === "Writing" ? "nav-link active" : "nav-link"}>Writing</Nav.Link>
+                        </Nav.Item>
+                        <Nav.Item>
                             <Nav.Link href="#contact" onClick={() => handlePageChange("Contact Me")} className={currentPage === "Contact Me" ? "nav-link active" : "nav-link"}>Contact Me</Nav.Link>
                         </Nav.Item>
                         <Nav.Item>

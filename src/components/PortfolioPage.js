@@ -8,6 +8,7 @@ import Project from './pages/Project';
 import Contact from './pages/Contact';
 import Resume from './pages/Resume';
 import Footer from './pages/Footer';
+import Writing from './pages/Writing';
 
 export default function PortfolioPage() {
     const [currentPage, setCurrentPage] = useState('About Me');
@@ -24,6 +25,9 @@ export default function PortfolioPage() {
         }
         if (currentPage === 'Resume') {
             return <Resume />;
+        }
+        if (currentPage === 'Writing') {
+            return <Writing />;
         }
     }
 

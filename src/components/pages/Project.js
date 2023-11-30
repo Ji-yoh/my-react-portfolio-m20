@@ -13,6 +13,8 @@ function Project() {
     return (
         <Container>
             <div className="project">
+                <h2>Projects</h2>
+                <p>Here are some of the web development projects I've worked on so far. Click on the links to view the deployed sites or a demo video and the GitHub repositories.</p>
                 <CardGroup>
                     <Card className="bg-dark text-white" style={{width: "18rem"}} border="light">
                         <Card.Img src={JateIcon} alt="Card Image"/>
