@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/my-react-portfolio-m20/static/css/main.a0a0f005.css",
-    "main.js": "/my-react-portfolio-m20/static/js/main.6c368be6.js",
+    "main.js": "/my-react-portfolio-m20/static/js/main.2ccb80f2.js",
     "static/media/littleshop_sequel.png": "/my-react-portfolio-m20/static/media/littleshop_sequel.04f6726fc73a25a3d1cd.png",
     "static/media/Oakland.png": "/my-react-portfolio-m20/static/media/Oakland.126b682fbfbc64267603.png",
     "static/media/Dating.png": "/my-react-portfolio-m20/static/media/Dating.cc4a8859d6d55a02520f.png",
@@ -13,10 +13,10 @@
     "static/media/MongoDB_SpringGreen Small.png": "/my-react-portfolio-m20/static/media/MongoDB_SpringGreen Small.8622d4234bf5ca0c3b5e.png",
     "index.html": "/my-react-portfolio-m20/index.html",
     "main.a0a0f005.css.map": "/my-react-portfolio-m20/static/css/main.a0a0f005.css.map",
-    "main.6c368be6.js.map": "/my-react-portfolio-m20/static/js/main.6c368be6.js.map"
+    "main.2ccb80f2.js.map": "/my-react-portfolio-m20/static/js/main.2ccb80f2.js.map"
   },
   "entrypoints": [
     "static/css/main.a0a0f005.css",
-    "static/js/main.6c368be6.js"
+    "static/js/main.2ccb80f2.js"
   ]
 }
